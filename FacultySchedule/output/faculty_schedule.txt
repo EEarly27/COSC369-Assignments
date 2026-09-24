@@ -1,0 +1,596 @@
+FACULTY: Adedoyin, Anthony
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 350.170       Monday & Wednesday 4:00 PM to 6:50 PM      108         
+  (Prin & Meth of Intru Det & Pre (7R1))
+
+CTEC 350.180       Monday & Wednesday 4:00 PM to 6:50 PM      108         
+  (Prin & Meth of Intru Det & Pre (7R2))
+
+CTEC 435.170       Monday & Wednesday 7:00 PM to 9:50 PM      108         
+  (UNIX System Administration (7R1))
+
+
+============================================================
+
+FACULTY: Agboli, P.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 120.171       Monday & Wednesday 5:00 PM to 7:00 PM      201/112     
+  (Prin of SecureCoding Using Jav (7R1))
+
+CTEC 300.170       Monday & Wednesday 7:00 PM to 9:50 PM      112         
+  (Database Achitecture (7R1))
+
+
+============================================================
+
+FACULTY: Appolo Tankeh
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       10:45am - 1:00pm
+Tuesday      10:45am - 1:00pm
+Wednesday    10:45am - 1:00pm
+Wednesday    3:00pm - 5:00pm
+Thursday     10:45am - 1:00pm
+
+============================================================
+
+FACULTY: Avijoy Chakma
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       11:45am - 12:45pm
+Tuesday      10:45am - 2:45pm
+Wednesday    11:45am - 12:45pm
+
+============================================================
+
+FACULTY: Baptiste, R.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 214.180       Thursday 12:00 PM to 3:40 PM               109         
+  (Client Operating Systs (7R2))
+
+CTEC 302.170       Thursday 4:00 PM to 6:50 PM                Dept        
+  (Computer Networking (7R1))
+
+CTEC 302.180       Thursday 4:00 PM to 6:50 PM                111         
+  (Computer Networking (7R2))
+
+
+============================================================
+
+FACULTY: Bo Yang
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       1:00pm - 2:00pm
+Wednesday    1:00pm - 2:00pm
+
+============================================================
+
+FACULTY: Brett Tolbert
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 345.170       Monday & Wednesday 5:00 PM to 7:50 PM      109         
+  (Found of Comp and Network Secu (7R1))
+
+CTEC 345.180       Monday & Wednesday 5:00 PM to 7:50 PM      111         
+  (Found of Comp and Network Secu (7R2))
+
+
+============================================================
+
+FACULTY: Bright, Marvin
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 720.555       Monday & Wednesday 7:00 PM to 9:50 PM      Online      
+  (Master's Thesis Research I (7R2) )
+
+CTEC 721.555       Thursday 7:00 PM to 9:50 AM                Online      
+  (Master's Thesis Research II  (7R2) )
+
+
+============================================================
+
+FACULTY: Carter, Adrian D.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 424.555       Thursday 7:00 PM to 9:50 PM                Online      
+  (Database Administration (7R2))
+
+CTEC 445.170       Monday & Wednesday 4:00 PM to 6:50 PM      111         
+  (Fund of Cryptography & Applica (7R1))
+
+CTEC 450.170       Monday & Wednesday 7:00 PM to 9:50 PM      111         
+  (Case Studies in Comp Security (7R1))
+
+
+============================================================
+
+FACULTY: Chery, Pierrot
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 305.170       Thursday 4:00 PM to 6:50 PM                Dept        
+  (Server Administration I (7R1))
+
+CTEC 305.180       Thursday 4:00 PM to 6:50 PM                109         
+  (Server Administration I (7R2))
+
+CTEC 405.170       Thursday 7:00 PM to 9:50 PM                109         
+  (Server Administration II (7R1))
+
+
+============================================================
+
+FACULTY: Darsana Josyula
+
+OFFICE HOURS
+------------------------------------------------------------
+Thursday     3:00pm - 5:00pm
+
+============================================================
+
+FACULTY: Deal, Shawn
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 226.180       Thursday 7:00 PM to 9:50 PM                116         
+  (Intro To Db Development (7R2))
+
+
+============================================================
+
+FACULTY: Dixon, Carl
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 294.170       Monday & Wednesday 4:00 PM to 6:50 PM      112         
+  (PC Architecture (7R1))
+
+CTEC 294.180       Monday & Wednesday 4:00 PM to 6:50 PM      112         
+  (PC Architecture (7R2))
+
+
+============================================================
+
+FACULTY: Dr. Stone, D. B.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 120.170       Monday & Wednesday 12:00 PM to 3:15 AM     116         
+  (Prin of SecureCoding Using Jav (7R1))
+
+CTEC 125.555       On-line Asynchronous Course                Online      
+  (Intro to Python programming (7R1) )
+
+CTEC 125.556       On-line Asynchronous Course                Online      
+  (Intro to Python programming (7R2) )
+
+CTEC 324.555       Monday & Wednesday 4:00 PM to 6:50 PM      online      
+  (Database Appl Dev (7R2))
+
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       10:00am - 11:00am
+Monday       2:00pm - 3:00pm
+Monday       5:00pm - 6:00pm
+Wednesday    10:00am - 11:00am
+Wednesday    2:00pm - 3:00pm
+Wednesday    5:00pm - 6:00pm
+
+============================================================
+
+FACULTY: Eugene T. Harris
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 111.172       Thursday 8:00 AM to 10:50 AM               111         
+  (Cybersecurity for All (7R1))
+
+CTEC 114.172       Thursday 4:00 PM to 6:50 PM                114         
+  (Comp Tools & Environ (7R1))
+
+
+============================================================
+
+FACULTY: Francis, Wilbert R.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 475.180       Monday & Wednesday 7:00 PM to 9:50 PM      114         
+  (Cloud Computing (7R2))
+
+
+============================================================
+
+FACULTY: Frederic Edoukou
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       10:30am - 12:30pm
+Tuesday      10:30am - 12:30pm
+Wednesday    10:30am - 12:30pm
+Thursday     6:00pm - 8:00pm
+
+============================================================
+
+FACULTY: Henri E. Cooper
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 111.173       Monday & Wednesday 4:00 PM to 6:50 PM      Online      
+  (Cybersecurity for All (7R1))
+
+
+============================================================
+
+FACULTY: Hoda El-Sayed
+
+OFFICE HOURS
+------------------------------------------------------------
+Tuesday      11:00am - 1:00pm
+Thursday     11:00am - 1:00pm
+
+============================================================
+
+FACULTY: James Gildelamadrid
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       2:00pm - 3:00pm
+Tuesday      2:30pm - 4:30pm
+Wednesday    2:00pm - 3:00pm
+Thursday     2:30pm - 4:30pm
+
+============================================================
+
+FACULTY: Jesse Bemley
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 128.170       Thursday 12:00 PM to 2:50 PM               Online      
+  (Discrete Structures - Big Data (7R1))
+
+CTEC 298.180       Thursday 4:00 PM to 6:50 PM                108         
+  (Symbolic Computation use BigDa (7R2))
+
+CTEC 671.555       Thursday 4:00 PM to 6:50 PM                Online      
+  (Smart Integrated Systems  (7R1)  )
+
+
+OFFICE HOURS
+------------------------------------------------------------
+Tuesday      11:00am - 12:00pm
+Tuesday      3:00pm - 4:00pm
+Thursday     11:00am - 12:00pm
+
+============================================================
+
+FACULTY: Jie Yan
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       11:00am - 1:00pm
+Wednesday    11:00am - 1:00pm
+
+============================================================
+
+FACULTY: Jinkeon Kang
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       2:15pm - 4:00pm
+Tuesday      1:00pm - 4:00pm
+Wednesday    2:15pm - 4:00pm
+Thursday     11:00am - 12:30pm
+
+============================================================
+
+FACULTY: Kamruzzaman Sarker
+
+OFFICE HOURS
+------------------------------------------------------------
+Wednesday    8:40am - 1:10pm
+Wednesday    2:15pm - 3:15pm
+Thursday     2:15pm - 3:15pm
+Friday       8:30am - 10:30am
+
+============================================================
+
+FACULTY: Lamar, Courtney
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 393.555       Monday & Wednesday 4:00 PM to 6:50 PM      Online      
+  (Internet Prog II (7R2))
+
+
+============================================================
+
+FACULTY: Loubna Dali
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 111.170       Thursday 9:00 AM to 11:50 AM               Online      
+  (Cybersecurity for All (7R1))
+
+CTEC 450.180       Monday & Wednesday 7:00 PM to 9:50 PM      111         
+  (Case Studies in Comp Security (7R2))
+
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       11:00am - 12:00pm
+Monday       2:30pm - 3:30pm
+Tuesday      12:00pm - 1:00pm
+Wednesday    11:00am - 12:00pm
+Wednesday    2:30pm - 3:30pm
+Thursday     12:00pm - 1:00pm
+
+============================================================
+
+FACULTY: Miller, Stephanie R.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 426.170       Monday & Wednesday 7:00 PM to 9:50 PM      114         
+  (Expert Systems Using Big Data (7R1))
+
+
+============================================================
+
+FACULTY: Njeh, Felix
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 651.555       Monday & Wednesday 4:00 PM to 6:50 PM      Online      
+  (Internet of Things of Digital Res (7R1)  )
+
+
+============================================================
+
+FACULTY: Okonofua, Henry
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 410.170       Thursday 4:00 PM to 6:50 PM                201         
+  (Internet Technology (7R1))
+
+CTEC 410.180       Thursday 4:00 PM to 6:50 PM                201         
+  (Internet Technology (7R2))
+
+
+============================================================
+
+FACULTY: Patricia Hughes
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       10:00am - 5:00pm
+Tuesday      10:00am - 5:00pm
+Wednesday    10:00am - 5:00pm
+Thursday     10:00am - 5:00pm
+Friday       10:00am - 5:00pm
+
+============================================================
+
+FACULTY: Roberts, Curtis
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 222.170       Thursday 7:00 PM to 9:50 PM                108         
+  (Linux Operating System (7R1))
+
+CTEC 335.170       Thursday 4:00 PM to 6:50 PM                116         
+  (Network Protocols (TCP/IP) (7R1))
+
+CTEC 335.180       Thursday 4:00 PM to 6:50 PM                116         
+  (Network Protocols (TCP/IP) (7R2))
+
+
+============================================================
+
+FACULTY: Ruth Agada
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 402.180       Monday & Wednesday 7:00 PM to 9:50 PM      Online      
+  (Software and OS Security (7R2))
+
+CTEC 435.180       Monday & Wednesday 7:00 PM to 9:50 PM      108         
+  (UNIX System Administration (7R2))
+
+CTEC 711.555       MWF 5:00 PM to 5:00 PM                     Online      
+  (IoT Capstone I (7R2))
+
+
+OFFICE HOURS
+------------------------------------------------------------
+Tuesday      12:00pm - 3:00pm
+Wednesday    9:30am - 12:30pm
+Thursday     12:00pm - 3:30pm
+
+============================================================
+
+FACULTY: Ruth Olusegun
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       1:00pm - 2:00pm
+Tuesday      1:00pm - 4:00pm
+Wednesday    1:00pm - 2:00pm
+Thursday     1:00pm - 4:00pm
+
+============================================================
+
+FACULTY: Seonho Choi
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       12:30pm - 3:30pm
+Thursday     12:30pm - 3:30pm
+
+============================================================
+
+FACULTY: Sreenivasan Ramamurthy
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       10:00am - 11:00am
+Monday       1:30pm - 2:30pm
+Wednesday    10:00am - 11:00am
+Wednesday    1:30pm - 2:30pm
+
+============================================================
+
+FACULTY: Staphord Bengesi
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 111.171       Monday & Wednesday 8:00 AM to 10:50 AM     Online      
+  (Cybersecurity for All (7R1))
+
+CTEC 402.170       Monday & Wednesday 7:00 PM to 9:50 PM      Online      
+  (Software and OS Security (7R1))
+
+CTEC 445.180       Monday & Wednesday 4:00 PM to 6:50 PM      109         
+  (Fund of Cryptography & Applica (7R2))
+
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       10:30am - 12:30pm
+Tuesday      10:30am - 12:30pm
+Wednesday    10:30am - 12:30pm
+Thursday     6:00pm - 8:00pm
+
+============================================================
+
+FACULTY: Vega, J.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 220.170       Monday & Wednesday 11:00 AM to 1:50 PM     114         
+  (Adv Secure Coding Using Java (7R1))
+
+CTEC 220.180       Monday & Wednesday 11:00 AM to 1:50 PM     114         
+  (Adv Secure Coding Using Java (7R2))
+
+CTEC 230.180       Monday & Wednesday 4:00 PM to 6:50 PM      114         
+  (Application of Data Structures (7R2))
+
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       8:00am - 11:00am
+Monday       2:00pm - 4:00pm
+Wednesday    8:00am - 11:00am
+Wednesday    2:00pm - 4:00pm
+Friday       8:00am - 11:00am
+
+============================================================
+
+FACULTY: Victoria Lee
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 114.170       Monday & Wednesday 4:00 PM to 6:50 PM      116         
+  (Comp Tools & Environ (7R1))
+
+
+============================================================
+
+FACULTY: Vivek Shandilya
+
+OFFICE HOURS
+------------------------------------------------------------
+Tuesday      11:00am - 2:00pm
+Thursday     11:00am - 2:00pm
+
+============================================================
+
+FACULTY: Wilson, Marcella J.
+
+CLASS SCHEDULE
+------------------------------------------------------------
+Course             Times                                      Location    
+------------------------------------------------------------
+CTEC 128.180       Thursday 4:00 PM to 6:50 PM                Online      
+  (Discrete Structures - Big Data (7R2))
+
+CTEC 230.170       Thursday 11:00 AM to 2:40 PM               114         
+  (Application of Data Structures (7R1))
+
+CTEC 293.170       Monday & Wednesday 4:00 PM to 6:50 PM      114         
+  (Edge Technology (7R1))
+
+CTEC 415.180       Thursday 10:00 AM to 12:50 PM              114         
+  (Edge Computing (7R2))
+
+
+OFFICE HOURS
+------------------------------------------------------------
+Monday       10:00am - 1:00pm
+Wednesday    10:00am - 1:00pm
+
+============================================================
+

@@ -1,0 +1,78 @@
+Faculty Name,Subject,Office,Day,Start Time,End Time
+Bo Yang,Comp. Sci,322,M,1:00pm,2:00pm
+Bo Yang,Comp. Sci,322,W,1:00pm,2:00pm
+Jie Yan,Comp. Sci,324,M,11:00am,1:00pm
+Jie Yan,Comp. Sci,324,W,11:00am,1:00pm
+"Vega, J.",CTEC,,M,8:00am,11:00am
+"Vega, J.",CTEC,,M,2:00pm,4:00pm
+"Vega, J.",CTEC,,W,8:00am,11:00am
+"Vega, J.",CTEC,,W,2:00pm,4:00pm
+"Vega, J.",CTEC,,F,8:00am,11:00am
+"Dr. Stone, D. B.",CTEC,319,M,10:00am,11:00am
+"Dr. Stone, D. B.",CTEC,319,M,5:00pm,6:00pm
+"Dr. Stone, D. B.",CTEC,319,M,2:00pm,3:00pm
+"Dr. Stone, D. B.",CTEC,319,W,10:00am,11:00am
+"Dr. Stone, D. B.",CTEC,319,W,5:00pm,6:00pm
+"Dr. Stone, D. B.",CTEC,319,W,2:00pm,3:00pm
+Jesse Bemley,CTEC,,T,11:00am,12:00pm
+Jesse Bemley,CTEC,,T,3:00pm,4:00pm
+Jesse Bemley,CTEC,,TR,11:00am,12:00pm
+Darsana Josyula,,218,TR,3:00pm,5:00pm
+Hoda El-Sayed,,325,T,11:00am,1:00pm
+Hoda El-Sayed,,325,TR,11:00am,1:00pm
+Patricia Hughes,,215,M,10:00am,5:00pm
+Patricia Hughes,,215,T,10:00am,5:00pm
+Patricia Hughes,,215,W,10:00am,5:00pm
+Patricia Hughes,,215,TR,10:00am,5:00pm
+Patricia Hughes,,215,F,10:00am,5:00pm
+James Gildelamadrid,,222,M,2:00pm,3:00pm
+James Gildelamadrid,,222,T,2:30pm,4:30pm
+James Gildelamadrid,,222,W,2:00pm,3:00pm
+James Gildelamadrid,,222,TR,2:30pm,4:30pm
+Vivek Shandilya,,,T,11:00am,2:00pm
+Vivek Shandilya,,,TR,11:00am,2:00pm
+"Wilson, Marcella J.",,208B,M,10:00am,1:00pm
+"Wilson, Marcella J.",,208B,W,10:00am,1:00pm
+Sreenivasan Ramamurthy,,,M,10:00am,11:00am
+Sreenivasan Ramamurthy,,,M,1:30pm,2:30pm
+Sreenivasan Ramamurthy,,,W,10:00am,11:00am
+Sreenivasan Ramamurthy,,,W,1:30pm,2:30pm
+Avijoy Chakma,,,M,11:45am,12:45pm
+Avijoy Chakma,,,T,10:45am,2:45pm
+Avijoy Chakma,,,W,11:45am,12:45pm
+Appolo Tankeh,,CSB-223,M,10:45am,1:00pm
+Appolo Tankeh,,CSB-223,T,10:45am,1:00pm
+Appolo Tankeh,,CSB-223,W,10:45am,1:00pm
+Appolo Tankeh,,CSB-223,W,3:00pm,5:00pm
+Appolo Tankeh,,CSB-223,TR,10:45am,1:00pm
+Kamruzzaman Sarker,,,W,8:40am,1:10pm
+Kamruzzaman Sarker,,,W,2:15pm,3:15pm
+Kamruzzaman Sarker,,,TR,2:15pm,3:15pm
+Kamruzzaman Sarker,,,F,8:30am,10:30am
+Jinkeon Kang,,,M,2:15pm,4:00pm
+Jinkeon Kang,,,T,1:00pm,4:00pm
+Jinkeon Kang,,,W,2:15pm,4:00pm
+Jinkeon Kang,,,TR,11:00am,12:30pm
+Seonho Choi,,207B,M,12:30pm,3:30pm
+Seonho Choi,,207B,TR,12:30pm,3:30pm
+Loubna Dali,,CSB-216,M,11:00am,12:00pm
+Loubna Dali,,CSB-216,M,2:30pm,3:30pm
+Loubna Dali,,CSB-216,T,12:00pm,1:00pm
+Loubna Dali,,CSB-216,W,11:00am,12:00pm
+Loubna Dali,,CSB-216,W,2:30pm,3:30pm
+Loubna Dali,,CSB-216,TR,12:00pm,1:00pm
+Ruth Olusegun,,,M,1:00pm,2:00pm
+Ruth Olusegun,,,T,1:00pm,4:00pm
+Ruth Olusegun,,,W,1:00pm,2:00pm
+Ruth Olusegun,,,TR,1:00pm,4:00pm
+Ruth Agada,,CSB-216,T,12:00pm,3:00pm
+Ruth Agada,,CSB-216,W,9:30am,12:30pm
+Ruth Agada,,CSB-216,TR,12:00pm,3:30pm
+Frederic Edoukou,,,M,10:30am,12:30pm
+Frederic Edoukou,,,T,10:30am,12:30pm
+Frederic Edoukou,,,W,10:30am,12:30pm
+Frederic Edoukou,,,TR,6:00pm,8:00pm
+Staphord Bengesi,,206,M,10:30am,12:30pm
+Staphord Bengesi,,206,T,10:30am,12:30pm
+Staphord Bengesi,,206,W,10:30am,12:30pm
+Staphord Bengesi,,206,TR,6:00pm,8:00pm
