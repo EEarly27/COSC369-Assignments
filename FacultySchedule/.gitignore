@@ -3,3 +3,13 @@ build/*.o
 
 # Executable
 schedule_generator.exe
+
+# Compiled object files
+build/*.o
+
+# Executable
+schedule_generator.exe
+
+# Python cache files
+__pycache__/
+*.pyc
